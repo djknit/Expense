@@ -21,7 +21,7 @@
   "homepage": "https://github.com/huntertrammell/Expense#readme",
   "dependencies": {
     "@google-cloud/storage": "^2.3.1",
-    "aws-sdk": "^2.368.0",
+    "aws-sdk": "^2.814.0",
     "connect-ensure-login": "^0.1.1",
     "connect-flash": "^0.1.1",
     "connect-history-api-fallback": "^1.6.0",
